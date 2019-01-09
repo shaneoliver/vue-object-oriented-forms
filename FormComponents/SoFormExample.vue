@@ -3,11 +3,11 @@
         <div class="card shadow-lg">
             <div class="card-header">Test Form</div>
             <div class="card-body">
-                <eslhero-form 
+                <so-form 
                     :form="form"
                     @success="success"
                 >
-                </eslhero-form>
+                </so-form>
             </div>
         </div>
     </div>
